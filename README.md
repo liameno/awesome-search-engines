@@ -12,7 +12,6 @@
 - [Petal](https://www.petalsearch.com/)         -Privacy ✔
 - [Qwant](https://www.qwant.com/)               -Privacy ✔
 - [SearX](https://searx.space/)                 -Privacy ✔
-- [Sogou](https://www.sogou.com/)
 - [Startpage](https://startpage.com/)           -Privacy ✔
 - [Swisscows](https://swisscows.com/)           -Privacy ✔
 - [Yahoo](https://search.yahoo.com/)
