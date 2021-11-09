@@ -1,22 +1,36 @@
 # awesome-search-engines
 
-## Web
+## Web-All
 - [Ask.com](https://www.ask.com/)
-- [DuckDuckGo](https://duckduckgo.com/)         -Privacy ✔
-- [Ecosia](https://www.ecosia.org/)             -Privacy ✔
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Ecosia](https://www.ecosia.org/)
 - [Gigablast](https://www.gigablast.com/)
 - [Google](https://www.google.com/)
 - [Lycos](https://www.lycos.com/)
 - [Bing](https://www.bing.com/)
-- [Mojeek](https://www.mojeek.com/)             -Privacy ✔
-- [Petal](https://www.petalsearch.com/)         -Privacy ✔
-- [Qwant](https://www.qwant.com/)               -Privacy ✔
-- [SearX](https://searx.space/)                 -Privacy ✔
-- [Startpage](https://startpage.com/)           -Privacy ✔
-- [Swisscows](https://swisscows.com/)           -Privacy ✔
+- [Mojeek](https://www.mojeek.com/)
+- [Petal](https://www.petalsearch.com/)
+- [Qwant](https://www.qwant.com/)
+- [SearX](https://searx.space/)
+- [Startpage](https://startpage.com/)
+- [Swisscows](https://swisscows.com/)
 - [Yahoo](https://search.yahoo.com/)
 - [Yandex](https://yandex.com/)
-- [MetaGer](https://metager.org/)               -Privacy ✔
-- [Brave](https://search.brave.com/)            -Privacy ✔
-- [Encrypt](https://www.searchencrypt.com/home) -Privacy ✔
-- [Peekier](https://peekier.com/)               -Privacy ✔
+- [MetaGer](https://metager.org/)
+- [Brave](https://search.brave.com/)
+- [Encrypt](https://www.searchencrypt.com/home)
+- [Peekier](https://peekier.com/)
+## Web-Privacy 
+- [Ask.com](https://www.ask.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [Ecosia](https://www.ecosia.org/)
+- [Mojeek](https://www.mojeek.com/)
+- [Petal](https://www.petalsearch.com/)
+- [Qwant](https://www.qwant.com/)
+- [SearX](https://searx.space/)
+- [Startpage](https://startpage.com/)
+- [Swisscows](https://swisscows.com/)
+- [MetaGer](https://metager.org/)
+- [Brave](https://search.brave.com/)
+- [Encrypt](https://www.searchencrypt.com/home)
+- [Peekier](https://peekier.com/)
