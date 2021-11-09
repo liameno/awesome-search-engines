@@ -1,59 +1,23 @@
 # awesome-search-engines
 
-## Contents
-- [Search Engines](#search-engines)
-- [Web Browser](#web-browser)
-    - [Browser Sync](#browser-sync)
-    - [WebView](#webview)
-- [Photo Storage](#photo-storage)
-- [Photo Editing and Management](#photo-editing-and-management)
-- [Cloud Storage](#cloud-storage)
-- [Encryption](#encryption)
-- [2FA](#2fa)
-- [File Management and Sharing](#file-management-and-sharing)
-- [Maps and Navigation](#maps-and-navigation)
-- [Location tracking](#location-tracking)
-- [Translation](#translation)
-- [Android Keyboard](#android-keyboard)
-- [Android App Store](#android-app-store)
-- [Android Launcher](#android-launcher)
-- [Android Dialer](#android-dialer)
-- [Android File Manager](#android-file-manager)
-- [Download Manager](#download-manager)
-- [Social Networks and Platforms](#social-networks-and-platforms)
-  - [Instagram](#instagram)
-  - [YouTube](#youtube)
-  - [Twitter](#twitter)
-  - [Reddit](#reddit)
-  - [Streaming Platforms (Twitch)](#streaming-platforms-twitch)
-  - [Wikipedia](#wikipedia)
-  - [Imgur](#imgur)
-- [Teamworking Tools](#teamworking-tools)
-- [Instant Messaging](#instant-messaging)
-- [Password Managers](#password-managers)
-- [Mail Services](#mail-services)
-- [Notes and Tasks](#notes-and-tasks)
-- [Video Conferencing](#video-conferencing)
-- [Remote Access and Control](#remote-access-and-control)
-- [Fitness and Health](#fitness-and-health)
-- [Media Streaming Platforms](#media-streaming-platforms)
-  - [Video and Audio](#video-and-audio)
-  - [Audio](#audio)
-  - [Podcasts](#podcasts)
-- [Operating Systems](#operating-systems)
-  - [Android](#android-1)
-  - [Smart TV](#smart-tv)
-  - [PC / MacOS](#pc--macos)
-- [Analytics](#analytics)
-- [Captchas](#captchas)
-- [Cloaking](#cloaking)
-- [Office](#office)
-- [Fonts](#fonts)
-- [Payments](#payments)
-- [Personal Finances](#personal-finances)
-- [Databases](#databases)
-- [Utilities](#utilities)
-- [Developer Tools](#developer-tools)
-  - [IDEs](#ides)
-- [Domain Registrar](#domain-registrar)
-- [Uncategorized](#uncategorized)
+###Web
+- [Ask.com](https://www.ask.com/)
+- [DuckDuckGo](https://duckduckgo.com/)         -Privacy ✔
+- [Ecosia](https://www.ecosia.org/)             -Privacy ✔
+- [Gigablast](https://www.gigablast.com/)
+- [Google](https://www.google.com/)
+- [Lycos](https://www.lycos.com/)
+- [Bing](https://www.bing.com/)
+- [Mojeek](https://www.mojeek.com/)             -Privacy ✔
+- [Petal](https://www.petalsearch.com/)         -Privacy ✔
+- [Qwant](https://www.qwant.com/)               -Privacy ✔
+- [SearX](https://searx.space/)                 -Privacy ✔
+- [Sogou](https://www.sogou.com/)
+- [Startpage](https://startpage.com/)           -Privacy ✔
+- [Swisscows](https://swisscows.com/)           -Privacy ✔
+- [Yahoo](https://search.yahoo.com/)
+- [Yandex](https://yandex.com/)
+- [MetaGer](https://metager.org/)               -Privacy ✔
+- [Brave](https://search.brave.com/)            -Privacy ✔
+- [Encrypt](https://www.searchencrypt.com/home) -Privacy ✔
+- [Peekier](https://peekier.com/)               -Privacy ✔
