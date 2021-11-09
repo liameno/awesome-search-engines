@@ -1,6 +1,6 @@
 # awesome-search-engines
 
-## Web-All
+## Web
 - [Ask.com](https://www.ask.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
@@ -21,11 +21,9 @@
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
 ## Web-Privacy 
-- [Ask.com](https://www.ask.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
 - [Mojeek](https://www.mojeek.com/)
-- [Petal](https://www.petalsearch.com/)
 - [Qwant](https://www.qwant.com/)
 - [SearX](https://searx.space/)
 - [Startpage](https://startpage.com/)
@@ -34,3 +32,6 @@
 - [Brave](https://search.brave.com/)
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
+## Web-Privacy-Opensource 
+- [SearX](https://searx.space/)
+- [MetaGer](https://metager.org/)
