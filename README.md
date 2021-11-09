@@ -1,6 +1,6 @@
 # awesome-search-engines
 
-###Web
+##Web
 - [Ask.com](https://www.ask.com/)
 - [DuckDuckGo](https://duckduckgo.com/)         -Privacy ✔
 - [Ecosia](https://www.ecosia.org/)             -Privacy ✔
