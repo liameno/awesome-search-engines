@@ -21,6 +21,7 @@
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
 ## Web-Privacy 
+- [Gigablast](https://www.gigablast.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
 - [Mojeek](https://www.mojeek.com/)
@@ -33,5 +34,6 @@
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
 ## Web-Privacy-Opensource 
+- [Gigablast](https://www.gigablast.com/)
 - [SearX](https://searx.space/)
 - [MetaGer](https://metager.org/)
