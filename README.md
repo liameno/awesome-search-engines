@@ -20,6 +20,7 @@
 - [Brave](https://search.brave.com/)
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
+- [librengine](https://github.com/liameno/librengine/)
 ## Web-Privacy 
 - [Gigablast](https://www.gigablast.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -33,6 +34,7 @@
 - [Brave](https://search.brave.com/)
 - [Encrypt](https://www.searchencrypt.com/home)
 - [Peekier](https://peekier.com/)
+- [librengine](https://github.com/liameno/librengine/)
 ## Web-Privacy-Opensource 
 - [Gigablast](https://www.gigablast.com/)
 - [SearX](https://searx.space/)
