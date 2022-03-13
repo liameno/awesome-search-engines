@@ -37,3 +37,4 @@
 - [Gigablast](https://www.gigablast.com/)
 - [SearX](https://searx.space/)
 - [MetaGer](https://metager.org/)
+- [librengine](https://github.com/liameno/librengine/)
